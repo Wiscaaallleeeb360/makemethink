@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(0, 110, 255);
+}
+
+.Legitcars-winfeld{
+    border:rgba(red, green, blue, alpha) dashed 10px;
+}
