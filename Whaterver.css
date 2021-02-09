@@ -1,7 +1,27 @@
 body{
-    background-color: rgb(0, 110, 255);
+background-color: rgb(24, 90, 165);
+font-family: Arial, Helvetica, sans-serif;    
 }
 
-.Legitcars-winfeld{
-    border:rgba(red, green, blue, alpha) dashed 10px;
+header{
+    color: #fff;
+        background-color: #0072b0;
+    border-radius: .5em
+} 
+
+main {
+    display: block;
+
+}
+
+.sidebar{
+    padding: 1.5em;
+    background-color: rgb(230, 15, 15);
+    border-radius: .5em;
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
 }
