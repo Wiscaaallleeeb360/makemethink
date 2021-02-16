@@ -1,26 +1,66 @@
 body{
-background-color: rgb(24, 90, 165);
-font-family: Arial, Helvetica, sans-serif;    
-}
-
-header{
-    color: #fff;
-        background-color: #0072b0;
-    border-radius: .5em
+    background-color:rgb(45, 23, 241)#FB0202;
 } 
-
-main {
-    display: block;
+header{
+    color: #2159c8;
+    background-color: greenyellow;
+    font-size: 75px;
+    font-style: italic;
+    font-family:cursive;
+    width: 600px;  
 }
-
-.sidebar{
-    padding: 1.5em;
-    background-color: rgb(230, 15, 15);
-    border-radius: .5em;
-    margin: 0;
-    padding: 0;
+.Deals{
+    align-items: center; 
+    width: 15vw;
+    text-align: center;
+    font-size: 50;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:500;
 }
-.wrapper{
-    margin: 0 auto;
-    width: 1000px;
+.sale{
+    text-align: right;
+    font-size: 20px;
+}
+.Link{
+    text-align: right;
+    font-size: 150px;
+}
+.menu{
+    text-align: left;
+    border: transparent;
+    background-color: white;
+    font-size: 75px;
+    width: 100px;
+    height:500px;
+}
+.not{
+    position: relative;
+    border: transparent;
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin: 5vw;
+    margin-left: 15vw;
+}
+.car{
+    background-color: violet;
+}
+.car img{
+    position:fixed;
+    border:black;
+    width:350px;
+    height: 300px;
+    margin:5vw;
+    margin-left:35vw;
+    margin-top: 1vh;
+}
+.four img{
+    position:absolute;
+    border:black;
+    width:300px;
+    height:168px;
+    margin:5vw;
+    margin-left: 70vw;
 }
